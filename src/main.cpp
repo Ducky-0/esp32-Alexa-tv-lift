@@ -41,7 +41,7 @@
 #define TV_ROTATION "rotate tv"
 #define TV "tv"
 #define JUST_TV "just the tv"
-//#define BLUE_LIGHT_SPECIAL "blue light special"
+
 fauxmoESP fauxmo;
 
 
